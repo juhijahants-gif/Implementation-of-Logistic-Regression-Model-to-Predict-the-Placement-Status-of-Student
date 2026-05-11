@@ -9,12 +9,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Start the program and import required libraries (pandas, sklearn).
+
 2.Create or load dataset and separate it into
+
      * Features (CGPA, IQ, Projects) → X
+     
      * Target (Placement status) → y
+     
 3.Split the dataset into training and testing sets.
+
 4.Train the Logistic Regression model using the training data.
+
 5.Predict and evaluate the model using test data and display the placement result.
+
 ## Program:
 ```
 /*
